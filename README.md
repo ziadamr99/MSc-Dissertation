@@ -9,3 +9,10 @@ of an edge in 10-degree steps using the Leaky-Integrate-and-fire neural model. t
 was then classified using various classifiers. The different metrics was used to evaluate the output,
 have showed that the SVC classifier have an accuracy of 99.7 % after the classifier was optimized
 using the hyperparameter optimization algorithm – Hyperopt-sklearn.
+
+## technology and Libraries used
+
+## SNN architecture 
+## Classification
+## Results
+
