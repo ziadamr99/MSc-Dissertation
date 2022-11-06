@@ -10,7 +10,7 @@ was then classified using various classifiers. The different metrics was used to
 have showed that the SVC classifier have an accuracy of 99.7 % after the classifier was optimized
 using the hyperparameter optimization algorithm – Hyperopt-sklearn.
 
-## technology and Libraries used
+## Technology and Libraries used
 
 ## SNN architecture 
 ## Classification
