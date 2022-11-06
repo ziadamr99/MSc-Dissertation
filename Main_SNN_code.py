@@ -1,12 +1,3 @@
-# TODO: Understand each line of the code
-# TODO: Connect the code to your data folder by setting the "DATAPATH" environment variable and changing values of dataset_path and metadata_path
-# TODO: Play around with parameters to see how they affect the output
-# TODO: Display the locations of the neurons of each layer in space
-# TODO: Change connection from input to hidden layer from alltoall to  
-# TODO: Display the outputs of the neurons of each layer as spike raster plots
-# TODO: Display the outputs of the neurons of each layer as maps of spike counts
-
-# encoding: utf-8
 import os, pickle, json
 import numpy as np
 import pyNN.nest as sim
