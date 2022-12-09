@@ -11,8 +11,17 @@ have showed that the SVC classifier have an accuracy of 99.7 % after the classif
 using the hyperparameter optimization algorithm – Hyperopt-sklearn.
 
 ## Technology and Libraries used
-
+* Python
+* Spiking neural network
+* Ubuntu-NEST
+* Pandas
+* Matplotlib
+* Numpy
+* Seaborn
+* Scikit-learn machine learning libraries
 ## SNN architecture 
+
 ## Classification
+
 ## Results
 
