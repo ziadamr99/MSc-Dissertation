@@ -19,9 +19,4 @@ using the hyperparameter optimization algorithm – Hyperopt-sklearn.
 * Numpy
 * Seaborn
 * Scikit-learn machine learning libraries
-## SNN architecture 
-
-## Classification
-
-## Results
 
